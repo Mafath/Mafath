@@ -23,7 +23,10 @@
 </td>
 <td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafath&layout=compact&theme=dark&hide_border=false&langs_count=10"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mafath&show_icons=true&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafath&layout=compact&theme=dark&hide_border=false&langs_count=10" />
+</div>
   
   </td>
 </tr>

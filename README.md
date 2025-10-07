@@ -23,13 +23,9 @@
 </td>
 <td width="50%" align="center">
 
-<div align="center">
-  <!-- Overall GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mafath&show_icons=true&theme=dark&count_private=true&hide_border=false&disable_animations=false" />
 
-  <!-- Top languages including private repos -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafath&layout=compact&theme=dark&count_private=true&langs_count=10&hide_border=false" />
-</div>
+<!-- Top languages used (public + private repos) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafath&layout=compact&theme=dark&count_private=true&langs_count=10&hide_border=false" />
 
   
   </td>

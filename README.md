@@ -26,7 +26,6 @@
 
 <!-- Top languages used (public + private repos) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafath&layout=compact&theme=dark&count_private=true&langs_count=10&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafath&layout=compact" />
 
   
   </td>

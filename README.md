@@ -35,26 +35,6 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
-  </a>
-
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="50" width="50" />
-  </a>
-
-  <!-- Twitter Icon -->
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="Twitter" height="50" width="50" />
-  </a>
-
-
-</p>
-
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a>
